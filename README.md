@@ -14,10 +14,13 @@ The core idea is to create a trusted, hyper-local digital marketplace exclusivel
 *   **User Profiles & Ratings:** Builds accountability through transparent user profiles, seller history, and a community-driven review system.
 
 ## Tech Stack
-*   **Platform:** Android
-*   **Language:** Kotlin
-*   **UI Toolkit:** Jetpack Compose
-*   **IDE:** Android Studio
+*   **Mobile App (Frontend):**
+    *   **Platform:** Android
+    *   **Language:** Kotlin
+    *   **UI Toolkit:** Jetpack Compose
+    *   **IDE:** Android Studio
+*   **Backend:**
+    *   **Platform:** Firebase (for Authentication, Database, and Realtime Messaging)
 
 ## TimeLine 
 
