@@ -1,10 +1,10 @@
 # The Student Marketplace App
 
-## The Concept
-The Student Marketplace is a mobile-first web application designed to be the official marketplace for students to buy, sell, and swap essential academic and hostel items within their university campus.
-
-## Problem It Solves
+## The Problem We Identified
 This app addresses the high cost of new textbooks, lab equipment, and other academic materials. It also tackles the waste generated when senior students discard items that are still valuable to junior students. It digitizes and secures the traditional senior-junior network, making it more efficient and trustworthy.
+
+## The Idea
+The core idea is to create a trusted, hyper-local digital marketplace exclusively for university students. By requiring users to verify their student status, the app creates a safe and secure environment where they can buy, sell, and swap essential items like textbooks, lab equipment, and dorm furniture directly with their peers on campus. It aims to be more efficient and reliable than existing informal solutions like social media groups by offering features like tailored academic search, user ratings, and in-app chat, ultimately fostering a more sustainable and affordable campus economy.
 
 ## Core Features
 *   **Verified Student Community:** Ensures all users are verified students through college email login, creating a safe and trusted environment.
