@@ -5,6 +5,7 @@ This document analyzes the project's Strengths, Weaknesses, Opportunities, and T
 ---
 
 ### Strengths (Internal)
+-   **Controlled Initial Launch:** Launching at a single college provides a controlled environment to gather user feedback, refine features, and build a strong, concentrated user base before scaling.
 -   **Hyper-Niche Focus:** The app is built exclusively for students, a high-density community with predictable, recurring needs.
 -   **Built-in Trust:** The "verified student" requirement is a powerful differentiator that solves the biggest problem with anonymous platforms.
 -   **Strong Value Proposition:** It directly saves students money and helps them recoup costs on items they no longer need.
@@ -14,7 +15,7 @@ This document analyzes the project's Strengths, Weaknesses, Opportunities, and T
 
 ### Weaknesses & Solutions (Internal)
 -   **Weakness: The "Empty Store" Problem.** The app is not useful without a critical mass of users and listings.
-    -   **Solution:** Implement a hyper-focused launch. Target a single campus, or even a single department, for the initial rollout. Use a campus ambassador program and offer incentives for the first wave of users to seed the platform with listings.
+    -   **Solution:** Implement a hyper-focused launch at a single target institution. This creates a high-density marketplace from day one. Use a campus ambassador program and offer incentives for the first wave of users to seed the platform with listings.
 
 -   **Weakness: Seasonal Usage.** Activity will likely spike at the beginning and end of semesters and be low during breaks.
     -   **Solution:** Diversify the marketplace. Actively promote categories that are relevant year-round, such as `Electronics`, `Services` (tutoring, photography), `Lost & Found`, and `Event Tickets` to encourage continuous engagement.
@@ -25,8 +26,9 @@ This document analyzes the project's Strengths, Weaknesses, Opportunities, and T
 ---
 
 ### Opportunities (External)
+-   **Scalable Rollout Model:** A successful launch at the initial college can serve as a proven model and case study for expansion to other universities.
 -   **University Partnerships:** Collaborate with universities for official promotion, potentially integrating with student portals or including the app in orientation materials.
--   **Service Expansion:** The platform could evolve beyond physical goods to include student-to-student services like tutoring, moving help, or freelance skills.
+-   -   **Service Expansion:** The platform could evolve beyond physical goods to include student-to-student services like tutoring, moving help, or freelance skills.
 -   **Local Business Advertising:** Local cafes, print shops, and stores could advertise directly to a verified student audience.
 -   **Monetization Paths:** Future revenue could come from small transaction fees, "featured listing" options for sellers, or premium features.
 
