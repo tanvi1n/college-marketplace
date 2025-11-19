@@ -21,3 +21,12 @@ The core idea is to create a trusted, hyper-local digital marketplace exclusivel
 
 ## Our Vision
 To create a sustainable and affordable campus economy where no textbook goes unread, no dorm furniture is wasted, and every student can save money and connect with their peers in a safe, trusted digital space.
+
+## TimeLine 
+
+## Meet the Team
+##TEAM EMBER (12)
+
+TEAMMATE 1 - Thanvi , , 2nd year CSE-
+TEAMMATE 2 - Rohini , 25WH5A0514 , 2nd year CSE-B
+TEAMMATE 3 - Sri Latha , 24WH1A0578 , 2nd year CSE-B
