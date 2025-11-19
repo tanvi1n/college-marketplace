@@ -13,5 +13,11 @@ This app addresses the high cost of new textbooks, lab equipment, and other acad
 *   **In-App Chat:** Secure and direct communication between buyers and sellers.
 *   **User Profiles & Ratings:** Builds accountability through transparent user profiles, seller history, and a community-driven review system.
 
+## Tech Stack
+*   **Platform:** Android
+*   **Language:** Kotlin
+*   **UI Toolkit:** Jetpack Compose
+*   **IDE:** Android Studio
+
 ## Our Vision
 To create a sustainable and affordable campus economy where no textbook goes unread, no dorm furniture is wasted, and every student can save money and connect with their peers in a safe, trusted digital space.
