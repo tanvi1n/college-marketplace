@@ -25,8 +25,10 @@ To create a sustainable and affordable campus economy where no textbook goes unr
 ## TimeLine 
 
 ## Meet the Team
-TEAM EMBER (12)
+**TEAM EMBER (12)**
 
 * TEAMMATE 1 - Thanvi , , 2nd year CSE-
 * TEAMMATE 2 - Rohini , 25WH5A0514 , 2nd year CSE-B
 * TEAMMATE 3 - Sri Latha , 24WH1A0578 , 2nd year CSE-B
+
+## GitHub
