@@ -1,9 +1,9 @@
 # The Student Marketplace App
 
-## The Problem We Identified
+## Problem We Identified
 This app addresses the high cost of new textbooks, lab equipment, and other academic materials. It also tackles the waste generated when senior students discard items that are still valuable to junior students. It digitizes and secures the traditional senior-junior network, making it more efficient and trustworthy.
 
-## The Idea
+## The Concept
 The core idea is to create a trusted, hyper-local digital marketplace exclusively for university students. By requiring users to verify their student status, the app creates a safe and secure environment where they can buy, sell, and swap essential items like textbooks, lab equipment, and dorm furniture directly with their peers on campus. It aims to be more efficient and reliable than existing informal solutions like social media groups by offering features like tailored academic search, user ratings, and in-app chat, ultimately fostering a more sustainable and affordable campus economy.
 
 ## Core Features
@@ -22,7 +22,9 @@ The core idea is to create a trusted, hyper-local digital marketplace exclusivel
 *   **Backend:**
     *   **Platform:** Firebase (for Authentication, Database, and Realtime Messaging)
 
-## TimeLine 
+ 
+## Our Vision
+To create a sustainable and affordable campus economy where no textbook goes unread, no dorm furniture is wasted, and every student can save money and connect with their peers in a safe, trusted digital space.
 
 ## Meet the Team
 **TEAM EMBER (12)**
@@ -30,4 +32,3 @@ The core idea is to create a trusted, hyper-local digital marketplace exclusivel
 * TEAMMATE 1 - Tanvi , 24WH1A0542 , 2nd year CSE-A
 * TEAMMATE 2 - Rohini , 25WH5A0514 , 2nd year CSE-B
 * TEAMMATE 3 - Sri Latha , 24WH1A0578 , 2nd year CSE-B
-
